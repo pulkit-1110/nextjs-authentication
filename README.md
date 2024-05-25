@@ -24,7 +24,7 @@ This is a basic authentication project built with Next.js. The main purpose of t
    npm install
    ```
 
-3. **Create a .env.local file based on the provided .env.sample file, and update the environment variables as needed. Below is an example of the .env.sample file:**
+3. **Create a .env file based on the provided .env.sample file, and update the environment variables as needed. Below is an example of the .env.sample file:**
 
    ```bash
    MONGO_URI="mongodb://127.0.0.1:27017/nextjs-auth"
